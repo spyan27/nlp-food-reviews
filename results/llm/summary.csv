@@ -1,0 +1,5 @@
+run,n,unparsed,accuracy,f1_helpful,f1_macro,avg_input_tokens
+few_shot_6,600,2,0.793,0.867,0.697,1327.468
+rubric,600,2,0.622,0.732,0.547,456.468
+zero_shot,600,1,0.684,0.788,0.584,338.468
+zero_shot_noscore,600,0,0.698,0.802,0.586,328.468
